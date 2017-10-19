@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2016 JustWayward Team
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+
+    <declare-styleable name="TagGroup">
+        <attr name="atg_isAppendMode" format="boolean" />
+        <attr name="atg_inputHint" format="string" />
+
+        <attr name="atg_borderColor" format="color" />
+        <attr name="atg_textColor" format="color" />
+        <attr name="atg_backgroundColor" format="color" />
+
+        <attr name="atg_dashBorderColor" format="color" />
+        <attr name="atg_inputHintColor" format="color" />
+        <attr name="atg_inputTextColor" format="color" />
+
+        <attr name="atg_checkedBorderColor" format="color" />
+        <attr name="atg_checkedTextColor" format="color" />
+        <attr name="atg_checkedMarkerColor" format="color" />
+        <attr name="atg_checkedBackgroundColor" format="color" />
+        <attr name="atg_pressedBackgroundColor" format="color" />
+        <attr name="atg_borderStrokeWidth" format="dimension" />
+        <attr name="atg_textSize" format="dimension" />
+        <attr name="atg_horizontalSpacing" format="dimension" />
+        <attr name="atg_verticalSpacing" format="dimension" />
+        <attr name="atg_horizontalPadding" format="dimension" />
+        <attr name="atg_verticalPadding" format="dimension" />
+    </declare-styleable>
+
+
+</resources>
